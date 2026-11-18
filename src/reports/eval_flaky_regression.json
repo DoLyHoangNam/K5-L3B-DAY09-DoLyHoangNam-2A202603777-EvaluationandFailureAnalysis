@@ -1,9 +1,9 @@
 {
-  "run_id": "E-flaky_regression-20261118-9df6",
+  "run_id": "E-flaky_regression-20261118-a736",
   "shape": "flaky_regression",
   "manifest": {
     "eval_set": "data/eval/eval_set_v2.jsonl",
-    "eval_set_sha": "9df6c2c07bc2",
+    "eval_set_sha": "a736553fa362",
     "items": 28,
     "seeds": [
       11,
